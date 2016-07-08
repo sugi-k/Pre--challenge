@@ -1,3 +1,3 @@
 + name：TamuraDai
 + birthday：1993/12/24
-+ my hobby：programming!!
++ my hobby：Volleyball
