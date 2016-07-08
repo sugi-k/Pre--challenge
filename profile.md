@@ -1,3 +1,3 @@
 + name：Keisuke Sugi
-+ birthday：2008/04/10
++ birthday：1989/04/25
 + my hobby：programming!!
