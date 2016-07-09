@@ -1,3 +1,3 @@
-+ name：prog_method
++ name： Hisashi Yoshida
 + birthday：2008/04/10
 + my hobby：programming!!
