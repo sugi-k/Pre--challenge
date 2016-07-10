@@ -1,3 +1,3 @@
 + name：Aoki Mikoto
-+ birthday：1993/01/02
++ birthday：1993/1/2
 + my hobby：Internet surfing
