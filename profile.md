@@ -1,3 +1,3 @@
 + name：Yusuke Tokimatsu
-+ birthday：2008/04/10
++ birthday：1993/09/26
 + my hobby：programming!!
