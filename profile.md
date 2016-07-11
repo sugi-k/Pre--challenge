@@ -1,3 +1,3 @@
-+ name：prog_method
-+ birthday：2008/04/10
++ name：sudou kouhei
++ birthday：1993/05/20
 + my hobby：programming!!
