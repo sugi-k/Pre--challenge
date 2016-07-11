@@ -1,3 +1,3 @@
-+ name：prog_method
-+ birthday：2008/04/10
++ name：Yuuki Muraoka
++ birthday：1993/12/22
 + my hobby：programming!!
