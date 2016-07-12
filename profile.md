@@ -1,3 +1,3 @@
 + name：Suetake Yu
-+ birthday：2008/04/10
++ birthday：1992/06/22
 + my hobby：programming!!
